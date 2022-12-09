@@ -9,13 +9,12 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
- *
- * <Add Extended Description Here>
- *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @file stats.c 
+ * @brief in this we are going to implement some statistics functions like  
+ * mean ,median,maximum.minimum,and we are goint to sort the array in descending order
+ * and print the stats and array.
+ * @author BOGI MANEESH KUMAR
+ * @date 09/12/2022
  *
  */
 
